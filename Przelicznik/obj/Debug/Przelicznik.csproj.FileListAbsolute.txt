@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Przelicznik\bin\Debug\Przelicznik.exe.config
+C:\Users\user\source\repos\Przelicznik\bin\Debug\Przelicznik.exe
+C:\Users\user\source\repos\Przelicznik\bin\Debug\Przelicznik.pdb
+C:\Users\user\source\repos\Przelicznik\obj\Debug\Przelicznik.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Przelicznik\obj\Debug\Przelicznik.Oknoglowne.resources
+C:\Users\user\source\repos\Przelicznik\obj\Debug\Przelicznik.Properties.Resources.resources
+C:\Users\user\source\repos\Przelicznik\obj\Debug\Przelicznik.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Przelicznik\obj\Debug\Przelicznik.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Przelicznik\obj\Debug\Przelicznik.exe
+C:\Users\user\source\repos\Przelicznik\obj\Debug\Przelicznik.pdb
