@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramPesel", "ProgramPesel.csproj", "{DB664709-1740-40D4-A9ED-9A2862F64AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB664709-1740-40D4-A9ED-9A2862F64AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB664709-1740-40D4-A9ED-9A2862F64AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB664709-1740-40D4-A9ED-9A2862F64AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB664709-1740-40D4-A9ED-9A2862F64AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A826A0C5-96D5-4F18-8D26-CEB82F2ED054}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ProgramPesel\bin\Debug\netcoreapp3.1\ProgramPesel.exe
+C:\Users\user\source\repos\ProgramPesel\bin\Debug\netcoreapp3.1\ProgramPesel.deps.json
+C:\Users\user\source\repos\ProgramPesel\bin\Debug\netcoreapp3.1\ProgramPesel.runtimeconfig.json
+C:\Users\user\source\repos\ProgramPesel\bin\Debug\netcoreapp3.1\ProgramPesel.runtimeconfig.dev.json
+C:\Users\user\source\repos\ProgramPesel\bin\Debug\netcoreapp3.1\ProgramPesel.dll
+C:\Users\user\source\repos\ProgramPesel\bin\Debug\netcoreapp3.1\ProgramPesel.pdb
+C:\Users\user\source\repos\ProgramPesel\obj\Debug\netcoreapp3.1\ProgramPesel.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ProgramPesel\obj\Debug\netcoreapp3.1\ProgramPesel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ProgramPesel\obj\Debug\netcoreapp3.1\ProgramPesel.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ProgramPesel\obj\Debug\netcoreapp3.1\ProgramPesel.AssemblyInfo.cs
+C:\Users\user\source\repos\ProgramPesel\obj\Debug\netcoreapp3.1\ProgramPesel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProgramPesel\obj\Debug\netcoreapp3.1\ProgramPesel.dll
+C:\Users\user\source\repos\ProgramPesel\obj\Debug\netcoreapp3.1\ProgramPesel.pdb
+C:\Users\user\source\repos\ProgramPesel\obj\Debug\netcoreapp3.1\ProgramPesel.genruntimeconfig.cache
