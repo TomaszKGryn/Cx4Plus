@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Njbzs4SbImSX/67C8sEHHkifgTdE+DH+XJFiAxORf5QGZNmOyvICrqqYgO2gmRmSttP+zgPLTBL7S/u1pFK53A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Uczen\\Documents\\Gryń T\\Cx4Plus-Programowanko\\wielowątkowość\\wielowątkowość\\wielowątkowość.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uczen\\.nuget\\packages\\gu.wpf.numericinput\\0.5.5\\gu.wpf.numericinput.0.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

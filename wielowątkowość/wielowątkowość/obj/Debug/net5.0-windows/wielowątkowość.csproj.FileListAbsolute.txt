@@ -1,0 +1,58 @@
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.csproj.AssemblyReference.cache
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość_MarkupCompile.cache
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość_MarkupCompile.lref
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\wielowątkowość.exe
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\wielowątkowość.deps.json
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\wielowątkowość.runtimeconfig.json
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\wielowątkowość.runtimeconfig.dev.json
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\wielowątkowość.dll
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\ref\wielowątkowość.dll
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\wielowątkowość.pdb
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.g.resources
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.AssemblyInfoInputs.cache
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.AssemblyInfo.cs
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.dll
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\ref\wielowątkowość.dll
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.pdb
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.genruntimeconfig.cache
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\Gu.Wpf.NumericInput.dll
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\cs\Gu.Wpf.NumericInput.resources.dll
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\de\Gu.Wpf.NumericInput.resources.dll
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\nl\Gu.Wpf.NumericInput.resources.dll
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\sv\Gu.Wpf.NumericInput.resources.dll
+C:\Users\Uczen\source\repos\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.csproj.CopyComplete
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.csproj.AssemblyReference.cache
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość_MarkupCompile.cache
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość_MarkupCompile.lref
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.dll
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\ref\wielowątkowość.dll
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.pdb
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\wielowątkowość.exe
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\wielowątkowość.deps.json
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\wielowątkowość.runtimeconfig.json
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\wielowątkowość.runtimeconfig.dev.json
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\wielowątkowość.dll
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\ref\wielowątkowość.dll
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\wielowątkowość.pdb
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\Gu.Wpf.NumericInput.dll
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\cs\Gu.Wpf.NumericInput.resources.dll
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\de\Gu.Wpf.NumericInput.resources.dll
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\nl\Gu.Wpf.NumericInput.resources.dll
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\bin\Debug\net5.0-windows\sv\Gu.Wpf.NumericInput.resources.dll
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.g.resources
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.AssemblyInfoInputs.cache
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.AssemblyInfo.cs
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.csproj.CopyComplete
+C:\Users\Uczen\Documents\Gryń T\Cx4Plus-Programowanko\wielowątkowość\wielowątkowość\obj\Debug\net5.0-windows\wielowątkowość.genruntimeconfig.cache

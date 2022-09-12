@@ -1,0 +1,42 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Gu.Wpf.NumericInput/0.5.5": {
+        "runtime": {
+          "lib/netcoreapp3.1/Gu.Wpf.NumericInput.dll": {
+            "assemblyVersion": "0.5.5.0",
+            "fileVersion": "0.5.5.0"
+          }
+        },
+        "resources": {
+          "lib/netcoreapp3.1/cs/Gu.Wpf.NumericInput.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/netcoreapp3.1/de/Gu.Wpf.NumericInput.resources.dll": {
+            "locale": "de"
+          },
+          "lib/netcoreapp3.1/nl/Gu.Wpf.NumericInput.resources.dll": {
+            "locale": "nl"
+          },
+          "lib/netcoreapp3.1/sv/Gu.Wpf.NumericInput.resources.dll": {
+            "locale": "sv"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gu.Wpf.NumericInput/0.5.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dXQXKs6BqmNDDWK/j4xdyqk1M1foVixixo187BWLIOr8gIgPaDaAFHDxLBNv9VhP98yFmzyQhyTIyShgd4VByw==",
+      "path": "gu.wpf.numericinput/0.5.5",
+      "hashPath": "gu.wpf.numericinput.0.5.5.nupkg.sha512"
+    }
+  }
+}
