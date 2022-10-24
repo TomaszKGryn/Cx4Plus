@@ -1,0 +1,24 @@
+﻿<Window x:Class="zadaniezawodowe.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zadaniezawodowe"
+        mc:Ignorable="d"
+        Title="Walidacja" Height="450" Width="800" Name="OknoGlowne">
+    <StackPanel>
+        <TextBlock Text="Podaj imie: " FontWeight="Bold" Margin="10"/>
+        <TextBox Text="{Binding ElementName=OknoGlowne, Path=TextBoxName}"/>
+
+        <TextBlock Text="Podaj wiek: " FontWeight="Bold" Margin="10"/>
+        
+
+        <TextBox Text="{Binding ElementName=OknoGlowne, Path=TextBoxAge}"/>
+        <Button Content="Sprawdź" Click="ButtonBase_OnClick" Margin="0 30 0 0"/>
+
+        <TextBlock Text="{Binding ElementName=OknoGlowne, Path=TextBlockName}" Margin="10"/>
+        
+        <TextBlock Text="{Binding ElementName=OknoGlowne, Path=TextBlockAge}" Margin="10"/>
+
+    </StackPanel>
+</Window>
